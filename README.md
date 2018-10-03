@@ -1,10 +1,9 @@
-# my-website
-Made an update
+# Repository Purpose
+
 
 Updates made on master on GitHub before rebase
 
-## Repository Putpose
+This is just an update.
 
-This will be a change that conflicts with whatever is on the remote side.
-This was edited locally.
+
 
